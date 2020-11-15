@@ -1,2 +1,3 @@
 # hjg
-Commit test 1
+Solved:
+1. HelloMe
