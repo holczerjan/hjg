@@ -12,5 +12,7 @@ public class CodingHours {
         // ha az átlagos heti munkaidő 52 óra
         System.out.println(17 * 5 * 6 + " órát tölt kódolással.");
         System.out.println("A félév " + 3000. / 52 + " százalékát tölti kódolással.");
+        System.out.println("A félév " + 5. * 6 / 52 * 100 + " százalékát tölti kódolással.");
+
     }
 }
