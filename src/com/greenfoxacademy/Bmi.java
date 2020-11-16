@@ -6,6 +6,6 @@ public class Bmi {
         // a változókat használva
         double massInKg = 81.2;
         double heightInM = 1.78;
-        System.out.println(heightInM / (massInKg * massInKg) );
+        System.out.println(massInKg / (heightInM * heightInM) );
     }
 }
