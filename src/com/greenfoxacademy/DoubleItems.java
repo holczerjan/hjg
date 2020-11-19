@@ -15,7 +15,7 @@ public class DoubleItems {
             numlist[i] *= 2;
         }
 
-        
+
     }
 
 
